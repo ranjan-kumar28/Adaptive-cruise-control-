@@ -1,0 +1,21 @@
+/*List of hardwares we are going to use in it
+ Microcontroller
+ Sensors
+ Power source
+ */
+ 
+## For the Prototype - 
+
+# Electronics
+
+Board - Node MCU esp32 / Arduino uno R3  / we can use any other also there are many microcontroller available
+Sensors:
+1.	RADAR
+2.	LIDAR
+3.	VISION SENSORS
+4.	ULTRASONIC SENSOR
+
+# Power source 
+(yet to be decided)
+Lithium Polymer battery - around 5000mAh
+Power bank
